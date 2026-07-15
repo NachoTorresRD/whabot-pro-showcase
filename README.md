@@ -4,10 +4,10 @@
 
 <div align="center">
 
-# 🚀 Whabot Pro v1.5 • Enterprise WhatsApp AI Engine
+# 🚀 Whabot Pro v1.5 • Enterprise Omnichannel AI Engine
 
-[![RELEASE](https://img.shields.io/badge/RELEASE-v1.5_PRO-6366F1?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
-[![MODULES](https://img.shields.io/badge/MODULES-15%2B_ACTIVE-10B981?style=for-the-badge&logo=components&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
+[![RELEASE](https://img.shields.io/badge/RELEASE-v1.5_OMNICHANNEL-6366F1?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
+[![CHANNELS](https://img.shields.io/badge/CHANNELS-WHATSAPP_%7C_INSTAGRAM_%7C_TELEGRAM_%7C_MESSENGER-06B6D4?style=for-the-badge&logo=messenger&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
 [![SATISFACTION](https://img.shields.io/badge/SATISFACTION-4.9%2F5.0-F59E0B?style=for-the-badge&logo=star&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
 [![LICENSE](https://img.shields.io/badge/LICENSE-PROPRIETARY-A855F7?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/NachoTorresRD/whabot-pro-showcase)
 
@@ -19,7 +19,7 @@
 
 <br>
 
-### *Plataforma Enterprise de Automatización Conversacional, Agentes IA (Gemini 2.5 Flash), Editor de Flujos Visuales, VoIP Neural y Pasarelas de Pago Integradas para WhatsApp Cloud API.*
+### *Plataforma Enterprise Omnicanal de Automatización Conversacional (WhatsApp Cloud API • Instagram Direct • Telegram Bots • Messenger Próximamente), Agentes IA (Gemini 2.5 Flash), Editor de Flujos Visuales, VoIP Neural y Pasarelas de Pago Integradas.*
 
 ---
 
@@ -34,11 +34,21 @@
 
 ---
 
+## 🌐 Cobertura Omnicanal de Mensajería
+
+- **🟢 WhatsApp Cloud API**: API Oficial de Meta con soporte para botones, listas interactivas, catálogos y plantillas HSM.
+- **🟣 Instagram Direct (DM)**: Automatización inteligente para mensajes directos, comentarios en publicaciones, historias y menciones.
+- **🔵 Telegram Bots Engine**: Conexión nativa con bots y canales de Telegram para difusión masiva y soporte.
+- **⚡ Facebook Messenger** *(Muy Pronto)*: Integración unificada para páginas de Facebook con el mismo motor de IA.
+
+---
+
 ## ⚡ Matriz Comparativa de Módulos Whabot Pro
 
 | Módulo / Capacidad | Plan Standard | Whabot Pro v1.5 (Supreme) | Beneficio Clave |
 | :--- | :---: | :---: | :--- |
-| **Proveedor de IA** | GPT-3.5 Legacy | **Gemini 2.5 Flash Exclusivo** | Cero latencia, razonamiento contextual profundo y menor costo operativo. |
+| **Soporte Multicanal** | Solo WhatsApp básico | **✅ WhatsApp + Instagram + Telegram + Messenger** | Unifica todas tus fuentes de prospectos en un único panel inteligente. |
+| **Proveedor de IA** | GPT-3.5 Legacy | **✅ Gemini 2.5 Flash Exclusivo** | Cero latencia, razonamiento contextual profundo y menor costo operativo. |
 | **Arquitectura Multi-Agente** | ❌ Monolítico | **✅ Agentes Compartidos** | Especialización por departamentos (Ventas, Soporte, Facturación). |
 | **Editor de Flujos** | Plantillas Rígidas | **✅ Visual Drag & Drop** | Creación flexible con diagramas condicionales y variables dinámicas. |
 | **Llamadas de Voz VoIP** | ❌ No disponible | **✅ Síntesis Neural VoIP** | Confirmación automatizada de citas por voz en tiempo real. |
@@ -51,7 +61,7 @@
 
 <div align="center">
 
-### 1. Conversión de Chats a Ventas Reales
+### 1. Conversión de Chats a Ventas Reales (Omnicanal)
 <img src="img/hero.webp" alt="Convierte Chats en Ventas" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
 
 ### 2. Automatización Inteligente con IA + Voz Neural
@@ -77,7 +87,10 @@
 
 ```mermaid
 graph TD
-    A[WhatsApp Cloud API Meta] -->|Webhook Payloads| B(Node.js / TypeScript Core Backend)
+    A1[WhatsApp Cloud API Meta] -->|Webhooks| B(Node.js Omnichannel Engine)
+    A2[Instagram Direct Messaging] -->|Webhooks| B
+    A3[Telegram Bot API] -->|Webhooks| B
+    A4[Facebook Messenger API] -->|Webhooks| B
     B -->|Memory & Queue State| C[(Redis Data Store)]
     B -->|Context Reasoning| D[Gemini 2.5 Flash AI Engine]
     B -->|Outbound Webhooks| E[CRM / Shopify / PayPal / Hotmart]
@@ -99,11 +112,11 @@ Conoce y conecta todas las soluciones de la suite de software **NachoTechRD**:
 ```
  ┌──────────────────────────┐      ┌──────────────────────────┐      ┌──────────────────────────┐
  │      🤖 WHABOT PRO       │ ◄──► │      💼 POSENT PRO       │ ◄──► │  ✨ AGENCIA 3D STUDIO    │
- │  WhatsApp AI Multi-Agent │      │ Cloud ERP, POS & Taxes   │      │ Immersive Web 3D Engines │
+ │ Omnichannel AI & Voice   │      │ Cloud ERP, POS & Taxes   │      │ Immersive Web 3D Engines │
  └──────────────────────────┘      └──────────────────────────┘      └──────────────────────────┘
 ```
 
-- **[🤖 Whabot Pro](https://github.com/NachoTorresRD/whabot-pro-showcase)**: Solución líder de automatización omnicanal para Meta WhatsApp API.
+- **[🤖 Whabot Pro](https://github.com/NachoTorresRD/whabot-pro-showcase)**: Solución líder de automatización omnicanal (WhatsApp, Instagram, Telegram & Messenger).
 - **[💼 Posent Pro](https://github.com/NachoTorresRD)**: Plataforma ERP de punto de venta e inventario inteligente en la nube.
 - **[✨ Agencia 3D Studio](https://github.com/NachoTorresRD)**: Desarrollo de sitios web inmersivos 3D con estética **NT-Skill Supreme**.
 
