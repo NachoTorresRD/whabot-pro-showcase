@@ -47,21 +47,27 @@
 
 ---
 
-## 🖼️ Galería de Componentes (WebP Optimized Engine)
+## 🖼️ Galería Visual Pro (Pro Social Assets Engine)
 
 <div align="center">
 
-### 1. Hero Interface & Dashboard Principal
-<img src="img/hero.webp" alt="Whabot Pro Dashboard" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
+### 1. Conversión de Chats a Ventas Reales
+<img src="img/hero.webp" alt="Convierte Chats en Ventas" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
 
-### 2. Editor Visual de Flujos Conversacionales
-<img src="img/editor.webp" alt="Visual Flow Editor" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
+### 2. Automatización Inteligente con IA + Voz Neural
+<img src="img/editor.webp" alt="IA + Voz Neural" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
 
-### 3. Ecosistema de 50+ Integraciones CRM
-<img src="img/integrations.webp" alt="Integraciones CRM" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
+### 3. Solución Completa: Más que un simple Bot
+<img src="img/integrations.webp" alt="No es solo un Bot" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
 
-### 4. Procesamiento de Pagos PayPal & Catálogo Dinámico
-<img src="img/payments.webp" alt="Procesamiento de Pagos" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px;">
+### 4. Recuperación de Chats Perdidos y Cobros Directos
+<img src="img/payments.webp" alt="Recuperación de Ventas" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
+
+### 5. Matriz de Casos de Uso Enterprise
+<img src="img/cases.webp" alt="Casos de Uso Enterprise" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px; margin-bottom: 2rem;">
+
+### 6. Sistema Unificado de Gestión Omnicanal
+<img src="img/system.webp" alt="Un Solo Sistema Unificado" width="680" style="max-height: 420px; object-fit: contain; border-radius: 12px;">
 
 </div>
 
